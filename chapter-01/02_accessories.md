@@ -13,4 +13,4 @@
 
 A photo says a thousand words ; )
 
-![]({{site.baseurl}}/mr-mahir/avr-c-programming/blob/master/chapter-01/AvrBoardMK2.JPG)
+![](/mr-mahir/avr-c-programming/blob/master/chapter-01/AvrBoardMK2.JPG)
