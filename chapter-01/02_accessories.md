@@ -9,3 +9,10 @@
 - 1 Pnp and 1 npn transistors
 
 
+### myAVR Board MK2
+
+A photo says a thousand words ; )
+
+
+![AvrBoardMK2.JPG]({{site.baseurl}}/chapter-01/AvrBoardMK2.JPG)
+
